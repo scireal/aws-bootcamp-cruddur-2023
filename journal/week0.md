@@ -19,9 +19,9 @@ Completed activities so far.
 
 10 - Read through the AWS architected framework 
 
-AWS architected framework Summary
-The AWS Well-Architected Framework is a set of best practises for designing and operating cloud-based systems that  should be reliable, secure, efficient, and cost-effective.
-The  AWS Well-Architected framework is divided into six pillars: Operational Excellence, Security, Reliability, Performance Efficiency, and Cost Optimization. The AWS framework  pillars provides a consistent approach to architecture evaluation and guidance to assist customers and partners in building and deploying reliable, efficient, and secure systems on AWS.
+AWS architected framework Summary.
+
+The AWS Well-Architected Framework is a set of best practises for designing and operating cloud-based systems that  should be reliable, secure, efficient, and cost-effective.The  AWS Well-Architected framework is divided into six pillars: Operational Excellence, Security, Reliability, Performance Efficiency, and Cost Optimization. The AWS framework  pillars provides a consistent approach to architecture evaluation and guidance to assist customers and partners in building and deploying reliable, efficient, and secure systems on AWS.
 
 1.Operational Excellence Pillar focuses on how to run and monitor systems, and continually improving processes and procedures through automation,incident management by responding to events, and defining standards to manage daily operations through performance monitoring.
 
