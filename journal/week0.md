@@ -1,7 +1,7 @@
 # Week 0 — Billing and Architecture
 
 
-Completed activities so far
+Completed activities so far.
 
 1 – Created a Free Github Account and Set up MFA on your Github Account.
 
