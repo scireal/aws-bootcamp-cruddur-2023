@@ -1,13 +1,22 @@
 # Week 0 — Billing and Architecture
 
-Completed activities sofar
-1 – Created a Free Github Account and Set up MFA on your Github Account
+
+Completed activities so far
+
+1 – Created a Free Github Account and Set up MFA on your Github Account.
+
 2 – Created a Free Gitpod Account
+
 3 – Set up Github Codespaces
+
 4 – Created my Free AWS Account and MFA
+
 6 – Created my Free LucidChart Account and attempted making my own charts
+
 8 – Created my Free Honeycomb.io Account
+
 9 – Created my Free Rollbar Account
+
 10 - Read through the AWS architected framework 
 
 AWS architected framework Summary
