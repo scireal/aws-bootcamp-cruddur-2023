@@ -17,8 +17,12 @@ Completed activities so far.
 
 9 – Created my Free Rollbar Account
 
-10 - Read through the AWS architected framework 
+10 - Read through the AWS architected framework.
 
+11- recreated the Cruddur Logical diagram using lucid charts -https://lucid.app/lucidchart/f3990276-85bd-4587-82de-7ad3695c7746/edit?viewport_loc=-581%2C110%2C2048%2C926%2C0_0&invitationId=inv_521e9944-4152-4e63-8545-90e6640a6d51
+
+12. I also did the architectural diagram on a napkin
+ 
 AWS architected framework Summary.
 
 The AWS Well-Architected Framework is a set of best practises for designing and operating cloud-based systems that  should be reliable, secure, efficient, and cost-effective.The  AWS Well-Architected framework is divided into six pillars: Operational Excellence, Security, Reliability, Performance Efficiency, and Cost Optimization. The AWS framework  pillars provides a consistent approach to architecture evaluation and guidance to assist customers and partners in building and deploying reliable, efficient, and secure systems on AWS.
